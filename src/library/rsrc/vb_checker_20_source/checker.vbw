@@ -1,0 +1,6 @@
+frmMain = -208, 129, 774, 759, , 69, 61, 446, 432, C
+modIndentifyBin = -81, 5, 901, 635, Z
+modItemExist = 88, 116, 753, 469, 
+modShellWait = 110, 145, 775, 498, 
+modContextMenu = 110, 110, 1092, 740, 
+modFileSize = 21, 7, 1003, 637, 

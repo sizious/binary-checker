@@ -1,0 +1,16 @@
+BINCHECK.DLL History Changes
+============================
+
+2.0 : 
+- The code was fully re-written, the DLL is very faster than the old.
+- The search algorithm was optimized.
+- More strings to search added (from LyingWake).
+
+1.4.1.0 :
+- ReadOnly bug fix
+
+1.4 :
+- Scramble/Unscramble module added.
+
+1.3 : 
+- First release.

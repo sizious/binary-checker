@@ -1,0 +1,13 @@
+//temp2 = "0123456789abcdef....(null)..0123456789ABCDEF"
+//temp2 = Replace(temp2, ".", Chr$(0))
+//temp = "#...'...*...-.../...2...4...7...9...;...=...?...A...C...E...G...I...J...L...N...O...Q...R...T...U...W...X...Z..." 'string to be searched
+//temp = Replace(temp, ".", Chr$(0))
+//netbsd = "$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
+//abc = "abcdefghijklmnopqrstuvwxyz"
+//dreamsnes = "ABCDEFGHIJKLMNOPQRSTUVWXYZ.0123456789-"
+//punch = "PORTDEV INFOENBLSTATRADRTOUTDRQCFUNCEND"
+//tetris = "abcdefghijklEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()"
+//starsdemo = "ABCDEFGHIJKLMNOPQRSTUVWXYZ01" & Chr$(0)
+//bor = ("0123456" & Hex(225) & "789ABCDE" & Hex(171) & "F" & Hex(15))
+//bortmnt = "0123456789ABCDEF....Inf.NaN.0123456789abcdef....(null)..."
+//bortmnt = Replace(bortmnt, ".", Chr$(0))
